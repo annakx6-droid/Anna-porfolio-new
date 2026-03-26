@@ -1,0 +1,6 @@
+Place your CV file here as: cv.pdf
+
+The Hero section "Download CV" button links to:
+  /Anna-porfolio/cv.pdf
+
+Just drop your cv.pdf into this /public folder and it will work.
