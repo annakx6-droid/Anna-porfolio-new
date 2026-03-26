@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://annakx6-droid.github.io/Anna-porfolio/",
+  "homepage": "https://github.com/annakx6-droid/Anna-porfolio-new.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
